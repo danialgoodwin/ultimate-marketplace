@@ -1,5 +1,5 @@
 # ultimate-marketplace
-TODO: Create minimal self-contained marketplace
+TODO: Create minimal self-contained marketplace software
 
 
 
@@ -21,11 +21,14 @@ TODO: Create minimal self-contained marketplace
 ### Features v2
 - Maybe: Business accounts (allows for multiple individual accounts to sign in to the same business account). But, need to deal a lot with account permissions within the business account too.
 - Ability to upload multiple listings using a standard JSON format (yet to be defined)
+- Section for 'Services' and 'Physical Goods'. Workaround: Sellers can use the same framework and specify the service.
 
 
 
 ## Pricing
 - Nominal $10/year for sellers to help ensure active/serious listings. And, to help cover some server costs.
+    - Pro: Seemingly less competition for sellers. Buyers wouldn't be wasting time
+    - Con: With less sellers, then wouldn't be able to brag about the number of sellers
 - 1% fee on all transactions to cover server costs and DDOS protection.
 
 
